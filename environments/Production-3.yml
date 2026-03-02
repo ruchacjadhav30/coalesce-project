@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "3"
+mappingDefinitions:
+  SAMPLE:
+    database: COALESCE_TRAINING
+    schema: TRANSFORM
+  WORK:
+    database: COALESCE_DB
+    schema: PUBLIC
+name: Production
+type: Environment

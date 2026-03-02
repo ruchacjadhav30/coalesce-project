@@ -1,1 +1,2 @@
 # coalesce-project
+# snowflake-project
